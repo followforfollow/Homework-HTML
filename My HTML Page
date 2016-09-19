@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1><h1 style="color:RED"> 
+My Pawn Shop 
+</h1></h1>
+<p><b><i>I'm Rick Harrison, and this is my pawn shop. I work here with my old man and my son, Big Hoss.<br>Everything in here has a story and a price. One thing I've learned after 21 years - you never know <ins>WHAT</ins> is gonna come through that door.</i></b></p>
+<h2>The Pawn Stars</h2>
+<p>Rick Harrison has worked at a pawn shop for 21 years.He works with his son <del>Big Hoss</del> Jake and his father.<br>The Harrison family never knows whats gonna come inside.</p> 
+<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/yg38AS6KveQ" frameborder="0" allowfullscreen></iframe> </center> 
+<p>Rick Harrison is also the <sub>mega</sub> <sup>star</sup> of his show Pawn Stars which is praised by critics rightfully so. 
+<h3>Please</h3> 
+<h4>Give</h4> 
+<h5>Pawn Stars</h5> 
+<h6>An Emmy</h6>
+</body>
+</html>
+
